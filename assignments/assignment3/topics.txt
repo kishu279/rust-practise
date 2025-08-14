@@ -1,0 +1,4 @@
+1. vectors
+2. strings 
+3. hashmaps
+4. error handling

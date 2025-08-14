@@ -1,0 +1,7 @@
+# Ignore build artifacts and unnecessary files
+/target/
+**/*.rs.bk
+Cargo.lock
+*.log
+*.tmp
+.DS_Store
