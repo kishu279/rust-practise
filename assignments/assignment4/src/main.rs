@@ -108,13 +108,46 @@ fn main() {
     find_area(cir);
     find_area(rect);
 
+    let largest;
+    let b = String::from("Sourav Poddar");
+    
+    {
+        let a = String::from("Taniya Sharma");
+        largest = find_largest(&a, &b);
+        println!("{}", largest);
+    }
 
 
+    
+}
+
+#[cfg(test)]
+mod tests {
+    use crate::add;
+
+    
+    #[test]
+    fn to_test() {
+        let add_result = add(4, 5);
+        assert_eq!(add_result, 9);
+    }
+}
+
+fn add(a: i32, b: i32) -> i32{
+    return a + b;
 
 }
 
 fn find_area<T: Area>(u: T) {
     println!("Area for {}", u.area());
+}
+
+fn find_largest<'a>(a: &'a str, b: &'a str) -> &'a str {
+    if a.len() > b.len() {
+        a
+    } else {
+        b
+    }
 }
 
 
