@@ -117,8 +117,18 @@ fn main() {
         println!("{}", largest);
     }
 
+    let add_op = |a: i32, b: i32| a + b; 
+    let sub_op = |a: i32, b: i32| a - b; 
+    let mup_op = |a: i32, b: i32| a * b; 
+    let div_op = |a: i32, b: i32| a / b; 
 
-    
+    println!("Operation {}", mini_calculator(100, 50, add_op));
+}
+
+fn mini_calculator<F>(a: i32, b: i32, op: F) -> i32
+where F: Fn(i32, i32) -> i32,
+    {
+        op(a, b)
 }
 
 
@@ -153,9 +163,6 @@ fn find_largest<'a>(a: &'a str, b: &'a str) -> &'a str {
         b
     }
 }
-
-
-
 
 // fn do_something<T: Summary + Fix>(u: T) {
 //     println!("{}", u.summarize());
