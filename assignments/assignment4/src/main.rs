@@ -121,22 +121,26 @@ fn main() {
     
 }
 
+
+fn add_two(a: i32, b: i32) -> i32 {
+    return a + b;
+}
+
 #[cfg(test)]
 mod tests {
-    use crate::add;
+    use super::*;
 
-    
+
     #[test]
     fn to_test() {
-        let add_result = add(4, 5);
-        assert_eq!(add_result, 9);
+        let sum_value = add_two(10, 20);
+
+        assert_eq!(sum_value, 30);
     }
-}
 
-fn add(a: i32, b: i32) -> i32{
-    return a + b;
 
 }
+
 
 fn find_area<T: Area>(u: T) {
     println!("Area for {}", u.area());
