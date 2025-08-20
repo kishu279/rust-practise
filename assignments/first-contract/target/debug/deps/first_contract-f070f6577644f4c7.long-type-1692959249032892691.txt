@@ -1,0 +1,1 @@
+fn(_) -> Result<CounterType, <CounterType as TryFrom<_>>::Error> {<CounterType as TryFrom<_>>::try_from}
