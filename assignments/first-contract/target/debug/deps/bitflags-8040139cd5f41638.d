@@ -1,0 +1,11 @@
+/home/kishu/workspace/DEV/rust-practise/assignments/first-contract/target/debug/deps/libbitflags-8040139cd5f41638.rmeta: /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/lib.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/iter.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/parser.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/traits.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/public.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/internal.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/external.rs
+
+/home/kishu/workspace/DEV/rust-practise/assignments/first-contract/target/debug/deps/bitflags-8040139cd5f41638.d: /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/lib.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/iter.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/parser.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/traits.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/public.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/internal.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/external.rs
+
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/lib.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/iter.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/parser.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/traits.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/public.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/internal.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.2/src/external.rs:

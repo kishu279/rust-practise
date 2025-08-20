@@ -1,0 +1,22 @@
+[package]
+name = "first-contract"
+version = "0.1.0"
+edition = "2021"  # Use 2021 instead of 2024 (2024 is not stable in Rust as of Aug 2025)
+
+[dependencies]
+borsh = { version = "1.5.7", features = ["derive"] }
+solana-program = "3.0.0"
+
+[features]
+solana=[]
+
+[build]
+target = "bpfel-unknown-unknown"
+
+[target.bpfel-unknown-unknown]
+rustflags = [
+  "-C", "opt-level=2",
+  "-C", "lto=no",
+  "-C", "panic=abort",
+  "-C", "code-model=small",
+]
