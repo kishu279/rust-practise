@@ -39,7 +39,7 @@ pub fn counter_app(_prodgram_id: &Pubkey, accounts: &[AccountInfo], instruction_
     }
 
     counter.serialize(&mut *acc.data.borrow_mut())?;
-    msg!("Counter updated to : {}", counter.count);    
+    msg!("Counter updated to : {}", counter.count);
 
     Ok(())
 }

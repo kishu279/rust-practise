@@ -27,7 +27,7 @@
 //     let acc = next_account_info(&mut accounts.iter())?;
 
 //     let instruction = InstructionType::try_from_slice(& instructions)?;
-//     let mut count = Counter::try_from_slice(&acc.data.borrow())?;
+//     let mut count =  Counter::try_from_slice(&acc.data.borrow())?;
 
 //     match instruction {
 //         InstructionType::IncrementData(value) => {
