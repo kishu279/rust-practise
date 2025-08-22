@@ -1,0 +1,1 @@
+fn(Result<Query<Params>, poem::Error>) -> Result<impl IntoResponse, poem::Error> {index}: Endpoint
