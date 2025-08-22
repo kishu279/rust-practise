@@ -1,0 +1,1 @@
+/home/kishu/workspace/DEV/rust-practise/random/counter-application-practise/target/debug/libcounter_application_practise.rlib: /home/kishu/workspace/DEV/rust-practise/random/counter-application-practise/src/lib.rs
