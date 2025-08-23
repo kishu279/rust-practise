@@ -1,0 +1,13 @@
+/home/kishu/workspace/DEV/rust-practise/random/rust-backend/target/debug/deps/libuuid-4521d1d6ca900c3a.rmeta: /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/lib.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/builder.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/error.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/non_nil.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/parser.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/fmt.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/timestamp.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/external.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/macros.rs
+
+/home/kishu/workspace/DEV/rust-practise/random/rust-backend/target/debug/deps/uuid-4521d1d6ca900c3a.d: /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/lib.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/builder.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/error.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/non_nil.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/parser.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/fmt.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/timestamp.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/external.rs /home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/macros.rs
+
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/lib.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/builder.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/error.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/non_nil.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/parser.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/fmt.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/timestamp.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/external.rs:
+/home/kishu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.18.0/src/macros.rs:

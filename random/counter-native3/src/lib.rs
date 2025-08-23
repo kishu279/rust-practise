@@ -19,7 +19,7 @@ struct CounterType {
     count: u32,
 }
 
-#[cfg(feature=solana)]
+#[cfg(feature="solana")]
 entrypoint!(counter_application);
 
 fn counter_application(_public_id: &Pubkey, accounts: &[AccountInfo], instruction_data: &[u8]) -> ProgramResult {
@@ -30,7 +30,7 @@ fn counter_application(_public_id: &Pubkey, accounts: &[AccountInfo], instructio
 
     match instruction {
         InstructionType::IncrementData(value) => {counter.count += value;},
-        InstructionType::DecrementData(value) =? {counter.count -= value;},
+        InstructionType::DecrementData(value) => {counter.count -= value;},
     }
 
     counter.serialize(&mut *acc.data.borrow_mut())?;
